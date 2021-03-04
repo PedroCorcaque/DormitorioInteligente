@@ -20,5 +20,5 @@
 ## Integrantes
 - [Pedro Corçaque](https://github.com/PedroCorcaque)
 - [Jardel Dyonisio](https://github.com/Dyon16)
-- Emilly Lamotte
+- [Emilly Lamotte](https://github.com/emillylamotte)
 - João Francisco
